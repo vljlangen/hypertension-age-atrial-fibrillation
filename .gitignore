@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Cohort file. Not part of this repository.
+*.sav
+
+# Outputs written by HypertensionxAgeLL.R
+*.html
+*.pdf
+*.jpg
+session_info.txt
